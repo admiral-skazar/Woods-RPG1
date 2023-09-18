@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://byhbo6cyyk1lu"
-path="res://.godot/imported/grass.png-75f383031f227b61ba57c3d65b174f5e.ctex"
+path="res://.godot/imported/grass.png-5ccdd5c96e877c90354696dc82f5f8a1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mystic_woods_free_2.1/sprites/tilesets/grass.png"
-dest_files=["res://.godot/imported/grass.png-75f383031f227b61ba57c3d65b174f5e.ctex"]
+source_file="res://scripts/mystic_woods_free_2.1/sprites/tilesets/grass.png"
+dest_files=["res://.godot/imported/grass.png-5ccdd5c96e877c90354696dc82f5f8a1.ctex"]
 
 [params]
 

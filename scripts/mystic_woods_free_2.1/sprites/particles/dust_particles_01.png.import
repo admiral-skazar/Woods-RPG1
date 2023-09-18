@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ddltd0xgpb6fp"
-path="res://.godot/imported/dust_particles_01.png-1ca13564ba8268d53175c161f3486773.ctex"
+path="res://.godot/imported/dust_particles_01.png-8e9714ebaddb4ecd4294ac0f65336b80.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mystic_woods_free_2.1/sprites/particles/dust_particles_01.png"
-dest_files=["res://.godot/imported/dust_particles_01.png-1ca13564ba8268d53175c161f3486773.ctex"]
+source_file="res://scripts/mystic_woods_free_2.1/sprites/particles/dust_particles_01.png"
+dest_files=["res://.godot/imported/dust_particles_01.png-8e9714ebaddb4ecd4294ac0f65336b80.ctex"]
 
 [params]
 

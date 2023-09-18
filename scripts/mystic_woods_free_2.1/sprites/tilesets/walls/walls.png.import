@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cp1m2yrqjqp8v"
-path="res://.godot/imported/walls.png-6ac90baaa2b3a62b4974142cef6be64b.ctex"
+path="res://.godot/imported/walls.png-59ddaaca067ec734e6a679cfb76b8d07.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mystic_woods_free_2.1/sprites/tilesets/walls/walls.png"
-dest_files=["res://.godot/imported/walls.png-6ac90baaa2b3a62b4974142cef6be64b.ctex"]
+source_file="res://scripts/mystic_woods_free_2.1/sprites/tilesets/walls/walls.png"
+dest_files=["res://.godot/imported/walls.png-59ddaaca067ec734e6a679cfb76b8d07.ctex"]
 
 [params]
 
