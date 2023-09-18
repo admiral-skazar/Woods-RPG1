@@ -1,0 +1,24 @@
+[gd_scene load_steps=4 format=3 uid="uid://b2qhv2dpxd8nl"]
+
+[ext_resource type="Texture2D" uid="uid://b6fprop6cwrtw" path="res://mystic_woods_free_2.1/sprites/objects/objects.png" id="1_ad4qe"]
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_vj7u2"]
+texture = ExtResource("1_ad4qe")
+6:7/size_in_atlas = Vector2i(2, 2)
+6:7/0 = 0
+8:6/size_in_atlas = Vector2i(2, 3)
+8:6/0 = 0
+10:7/size_in_atlas = Vector2i(2, 2)
+10:7/0 = 0
+0:5/size_in_atlas = Vector2i(3, 4)
+0:5/0 = 0
+
+[sub_resource type="TileSet" id="TileSet_3c8jv"]
+sources/0 = SubResource("TileSetAtlasSource_vj7u2")
+
+[node name="world" type="Node2D"]
+
+[node name="TileMap" type="TileMap" parent="."]
+scale = Vector2(10.6286, 9.38686)
+tile_set = SubResource("TileSet_3c8jv")
+format = 2
